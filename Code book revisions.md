@@ -11,4 +11,4 @@ Code book revisions:
 
  Only the mean and standard deviation variables of each measurement have been included in data_set.txt. The variables "subject" and "activity" represent the data in the "subject" and "y_train/test" files, respectively.
 
- The file "summary.txt" contains the mean of all variables in data_set.txt for each subject for each activity. 
+ The file "summary_data.txt" contains the mean of all variables in data_set.txt for each subject for each activity. 
